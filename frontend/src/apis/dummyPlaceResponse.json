@@ -1,0 +1,110 @@
+{
+  "microsoft": {
+      "status": "success",
+      "items": [
+          {
+              "description": "Big Ben",
+              "confidence": 0.9985779523849487,
+              "bounding_box": [],
+              "locations": []
+          }
+      ],
+      "cost": 0.001
+  },
+  "google": {
+      "status": "success",
+      "items": [
+          {
+              "description": "Big Ben",
+              "confidence": 0.81435066,
+              "bounding_box": [
+                  {
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 440
+                  },
+                  {
+                      "x": 0,
+                      "y": 440
+                  }
+              ],
+              "locations": [
+                  {
+                      "lat_lng": {
+                          "latitude": 51.500729199999995,
+                          "longitude": -0.12462540000000001
+                      }
+                  }
+              ]
+          },
+          {
+              "description": "Westminster Bridge",
+              "confidence": 0.7724481,
+              "bounding_box": [
+                  {
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 440
+                  },
+                  {
+                      "x": 0,
+                      "y": 440
+                  }
+              ],
+              "locations": [
+                  {
+                      "lat_lng": {
+                          "latitude": 51.5008638,
+                          "longitude": -0.12196449999999999
+                      }
+                  }
+              ]
+          },
+          {
+              "description": "Lastminute.com London Eye",
+              "confidence": 0.7589679,
+              "bounding_box": [
+                  {
+                      "x": 0,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 0
+                  },
+                  {
+                      "x": 660,
+                      "y": 440
+                  },
+                  {
+                      "x": 0,
+                      "y": 440
+                  }
+              ],
+              "locations": [
+                  {
+                      "lat_lng": {
+                          "latitude": 51.5032973,
+                          "longitude": -0.11955370000000001
+                      }
+                  }
+              ]
+          }
+      ],
+      "cost": 0.0015
+  }
+}

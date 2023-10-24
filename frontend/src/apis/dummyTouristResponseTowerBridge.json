@@ -1,0 +1,402 @@
+{
+  "data": [
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "1C3E0AC81C",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/1C3E0AC81C",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.49932,
+        "longitude": -0.127374
+      },
+      "name": "Westminster Abbey",
+      "category": "SIGHTS",
+      "rank": 5,
+      "tags": [
+        "church",
+        "sightseeing",
+        "landmark",
+        "temple",
+        "tourguide",
+        "sights",
+        "historicplace",
+        "historic",
+        "restaurant",
+        "museum",
+        "attraction",
+        "activities",
+        "shopping",
+        "professionalservices",
+        "commercialplace",
+        "transport",
+        "bus",
+        "gift",
+        "sports",
+        "gym",
+        "education",
+        "train"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "AB08B6A021",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/AB08B6A021",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.505375,
+        "longitude": -0.075453
+      },
+      "name": "Tower Bridge",
+      "category": "SIGHTS",
+      "rank": 5,
+      "tags": [
+        "sightseeing",
+        "bridge",
+        "landmark",
+        "sights",
+        "tourguide",
+        "historicplace",
+        "historic",
+        "museum",
+        "marina",
+        "restaurant",
+        "shopping",
+        "building",
+        "activities",
+        "attraction",
+        "events",
+        "professionalservices",
+        "commercialplace",
+        "harbor",
+        "hiking",
+        "gift",
+        "park",
+        "parking"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "1C85B12383",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/1C85B12383",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.5083,
+        "longitude": -0.076068
+      },
+      "name": "Tower of London",
+      "category": "SIGHTS",
+      "rank": 5,
+      "tags": [
+        "sightseeing",
+        "landmark",
+        "sights",
+        "tourguide",
+        "castle",
+        "restaurant",
+        "church",
+        "temple",
+        "historicplace",
+        "historic",
+        "museum",
+        "shopping",
+        "park",
+        "attraction",
+        "events",
+        "activities",
+        "commercialplace",
+        "transport",
+        "bus",
+        "souvenir",
+        "gift",
+        "hiking",
+        "professionalservices",
+        "rental",
+        "skating",
+        "sports",
+        "activelife",
+        "beauty&spas"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "35BF4014BA",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/35BF4014BA",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.513718,
+        "longitude": -0.099449
+      },
+      "name": "St Paul's Cathedral",
+      "category": "SIGHTS",
+      "rank": 5,
+      "tags": [
+        "church",
+        "sightseeing",
+        "sights",
+        "landmark",
+        "restaurant",
+        "tourguide",
+        "temple",
+        "historicplace",
+        "historic",
+        "attraction",
+        "garden",
+        "transport",
+        "park",
+        "metro",
+        "professionalservices",
+        "activities",
+        "events",
+        "schools",
+        "commercialplace",
+        "bus",
+        "gift",
+        "shopping",
+        "souvenir",
+        "beauty&spas"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "858BEA5BC3",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/858BEA5BC3",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.50893,
+        "longitude": -0.128302
+      },
+      "name": "The National Gallery",
+      "category": "RESTAURANT",
+      "rank": 10,
+      "tags": [
+        "restaurant",
+        "fastfood",
+        "artgallerie",
+        "museum",
+        "sightseeing",
+        "tourguide",
+        "breakfast",
+        "sights",
+        "activities",
+        "professionalservices",
+        "library",
+        "shopping",
+        "events",
+        "attraction",
+        "commercialplace",
+        "transport",
+        "train",
+        "trainstation",
+        "bar"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "900AAC8FED",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/900AAC8FED",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.50078,
+        "longitude": -0.124601
+      },
+      "name": "Big Ben",
+      "category": "SIGHTS",
+      "rank": 10,
+      "tags": [
+        "landmark",
+        "sightseeing",
+        "sights",
+        "historicplace",
+        "restaurant",
+        "historic",
+        "tourguide",
+        "attraction",
+        "professionalservices",
+        "commercialplace",
+        "activities",
+        "building",
+        "events",
+        "latte"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "FA89291A45",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/FA89291A45",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.508125,
+        "longitude": -0.097117
+      },
+      "name": "Shakespeare's Globe Theatre",
+      "category": "SIGHTS",
+      "rank": 15,
+      "tags": [
+        "sightseeing",
+        "landmark",
+        "tourguide",
+        "theater",
+        "activities",
+        "restaurant",
+        "sights",
+        "attraction",
+        "musicvenue",
+        "events",
+        "professionalservices",
+        "museum",
+        "shopping",
+        "commercialplace"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "755A5F50CA",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/755A5F50CA",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.49073,
+        "longitude": -0.126866
+      },
+      "name": "Tate Britain",
+      "category": "SIGHTS",
+      "rank": 15,
+      "tags": [
+        "restaurant",
+        "artgallerie",
+        "museum",
+        "tourguide",
+        "sightseeing",
+        "sights",
+        "shopping",
+        "transport",
+        "attraction",
+        "library",
+        "activities",
+        "professionalservices",
+        "commercialplace",
+        "souvenir",
+        "gift",
+        "bus"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "687EE8A599",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/687EE8A599",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.51197,
+        "longitude": -0.121507
+      },
+      "name": "London Transport Museum",
+      "category": "SIGHTS",
+      "rank": 15,
+      "tags": [
+        "museum",
+        "tourguide",
+        "sightseeing",
+        "restaurant",
+        "sights",
+        "shopping",
+        "gift",
+        "attraction",
+        "bar",
+        "activities",
+        "transport",
+        "commercialplace"
+      ]
+    },
+    {
+      "type": "location",
+      "subType": "POINT_OF_INTEREST",
+      "id": "2164C2E1B9",
+      "self": {
+        "href": "https://test.api.amadeus.com/v1/reference-data/locations/pois/2164C2E1B9",
+        "methods": [
+          "GET"
+        ]
+      },
+      "geoCode": {
+        "latitude": 51.507862,
+        "longitude": -0.099134
+      },
+      "name": "Tate Modern",
+      "category": "SIGHTS",
+      "rank": 15,
+      "tags": [
+        "restaurant",
+        "sightseeing",
+        "museum",
+        "artgallerie",
+        "sights",
+        "tourguide",
+        "landmark",
+        "historicplace",
+        "historic",
+        "professionalservices",
+        "shopping",
+        "transport",
+        "activities",
+        "attraction",
+        "bus",
+        "commercialplace",
+        "garden"
+      ]
+    }
+  ],
+  "meta": {
+    "count": 508,
+    "links": {
+      "self": "https://test.api.amadeus.com/v1/reference-data/locations/pois?latitude=51.50546&longitude=-0.07536&radius=5&page[limit]=10&page[offset]=0",
+      "next": "https://test.api.amadeus.com/v1/reference-data/locations/pois?latitude=51.50546&longitude=-0.07536&radius=5&page[limit]=10&page[offset]=10",
+      "last": "https://test.api.amadeus.com/v1/reference-data/locations/pois?latitude=51.50546&longitude=-0.07536&radius=5&page[limit]=10&page[offset]=500",
+      "first": "https://test.api.amadeus.com/v1/reference-data/locations/pois?latitude=51.50546&longitude=-0.07536&radius=5&page[limit]=10&page[offset]=0",
+      "up": "https://test.api.amadeus.com/v1/reference-data/locations/pois?latitude=51.50546&longitude=-0.07536&radius=5&page[limit]=10&page[offset]=0"
+    }
+  }
+}
